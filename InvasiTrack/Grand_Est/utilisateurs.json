@@ -1,0 +1,32 @@
+{
+    "basma": {
+        "email": "basma.baqqali@etu.univ-nantes.fr",
+        "id": "basma",
+        "mdp": "mdp",
+        "type": "consultant"
+    },
+    "demoC": {
+        "email": "demoC@univ-nantes.fr",
+        "id": "demoC",
+        "mdp": "mdp",
+        "type": "consultant"
+    },
+    "demoR": {
+        "email": "demoR@univ-nantes.fr",
+        "id": "demoR",
+        "mdp": "mdp",
+        "type": "reporter"
+    },
+    "felix": {
+        "email": "felix.letertre@etu.univ-nantes.fr",
+        "id": "felix",
+        "mdp": "mdp",
+        "type": "reporter"
+    },
+    "steven": {
+        "email": "steven.pichon@etu.univ-nantes.fr",
+        "id": "steven",
+        "mdp": "mdp",
+        "type": "reporter"
+    }
+}

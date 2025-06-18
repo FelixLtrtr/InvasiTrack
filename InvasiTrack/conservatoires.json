@@ -1,0 +1,828 @@
+{
+    "Grand_Est": {
+        "especes": {
+            "CRASSULE DE HELMS": {
+                "actions": {
+                    "ARRACHAGE": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2020,
+                            6,
+                            25
+                        ],
+                        "espece": "CRASSULE DE HELMS",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 80.0,
+                            "date": [
+                                2020,
+                                6,
+                                25
+                            ],
+                            "descriptif": "Arrachage des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "ARRACHAGE",
+                            "lieu": "Nancy",
+                            "materiel": "N/A",
+                            "typeAction": "Intervention"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "ARRACHAGE",
+                        "lieu": "Nancy",
+                        "statut": "Terminé",
+                        "type": "Intervention"
+                    },
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2019,
+                            9,
+                            15
+                        ],
+                        "espece": "CRASSULE DE HELMS",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2019,
+                                9,
+                                15
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Nancy",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Nancy",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    }
+                },
+                "categorieListe": "Espèce invasive",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 2,
+                "nom": "CRASSULE DE HELMS",
+                "phaseInvasion": "Introduction",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Prioritaire",
+                "repartitionGeo": "Nancy",
+                "taxonomie": "Crassula helmsii (Kirk) Cockayne",
+                "voieIntroduction": "Humaine"
+            },
+            "ELODEE DU CANADA": {
+                "actions": {
+                    "ARRACHAGE": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2022,
+                            4,
+                            29
+                        ],
+                        "espece": "ELODEE DU CANADA",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 80.0,
+                            "date": [
+                                2022,
+                                4,
+                                29
+                            ],
+                            "descriptif": "Arrachage des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "ARRACHAGE",
+                            "lieu": "Nancy",
+                            "materiel": "N/A",
+                            "typeAction": "Intervention"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "ARRACHAGE",
+                        "lieu": "Nancy",
+                        "statut": "Terminé",
+                        "type": "Intervention"
+                    },
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2020,
+                            8,
+                            6
+                        ],
+                        "espece": "ELODEE DU CANADA",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2020,
+                                8,
+                                6
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Nancy",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Nancy",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    }
+                },
+                "categorieListe": "Espèce invasive",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 2,
+                "nom": "ELODEE DU CANADA",
+                "phaseInvasion": "Introduction",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Prioritaire",
+                "repartitionGeo": "Nancy",
+                "taxonomie": "Elodea canadensis Michx.",
+                "voieIntroduction": "Humaine"
+            }
+        },
+        "nom": "Grand_Est",
+        "utilisateurConnecteId": "NULL",
+        "utilisateurs": {
+            "basma": {
+                "email": "basma.baqqali@etu.univ-nantes.fr",
+                "id": "basma",
+                "mdp": "mdp",
+                "type": "consultant"
+            },
+            "demoC": {
+                "email": "demoC@univ-nantes.fr",
+                "id": "demoC",
+                "mdp": "mdp",
+                "type": "consultant"
+            },
+            "demoR": {
+                "email": "demoR@univ-nantes.fr",
+                "id": "demoR",
+                "mdp": "mdp",
+                "type": "reporter"
+            },
+            "felix": {
+                "email": "felix.letertre@etu.univ-nantes.fr",
+                "id": "felix",
+                "mdp": "mdp",
+                "type": "reporter"
+            },
+            "steven": {
+                "email": "steven.pichon@etu.univ-nantes.fr",
+                "id": "steven",
+                "mdp": "mdp",
+                "type": "reporter"
+            }
+        }
+    },
+    "Loire_Bretagne": {
+        "especes": {
+            "BERCE DU CAUCASE": {
+                "actions": {
+                    "LUTTE CHIMIQUE": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2021,
+                            3,
+                            15
+                        ],
+                        "espece": "BERCE DU CAUCASE",
+                        "ficheSuivi": {
+                            "acteurs": "Félix LETERTRE",
+                            "coutAction": 250.0,
+                            "date": [
+                                2021,
+                                3,
+                                15
+                            ],
+                            "descriptif": "Aucun",
+                            "financement": "Département du Morbihan",
+                            "idAuteur": "demoR",
+                            "intituleAction": "LUTTE CHIMIQUE",
+                            "lieu": "Vannes",
+                            "materiel": "Produits phytosanitaires",
+                            "typeAction": "Intervention"
+                        },
+                        "idAuteur": "demoR",
+                        "intitule": "LUTTE CHIMIQUE",
+                        "lieu": "Vannes",
+                        "statut": "En cours",
+                        "type": "Intervention"
+                    }
+                },
+                "categorieListe": "Espèces invasives",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Compétition avec les végétaux, allergisante",
+                "modeReproduction": "Asexué",
+                "nbIndividusRecenses": 120,
+                "nom": "BERCE DU CAUCASE",
+                "phaseInvasion": "Expansion",
+                "potentielDispersion": "Important",
+                "potentielInvasif": "Fort",
+                "priorite": "À surveiller",
+                "repartitionGeo": "Vannes",
+                "taxonomie": "Heracleum mantegazzianum",
+                "voieIntroduction": "Humaine"
+            },
+            "BIDENT FEUILLE": {
+                "actions": {
+                    "ARRACHAGE": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2020,
+                            10,
+                            2
+                        ],
+                        "espece": "BIDENT FEUILLE",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 40.0,
+                            "date": [
+                                2020,
+                                10,
+                                2
+                            ],
+                            "descriptif": "Arrachage des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "ARRACHAGE",
+                            "lieu": "Carquefou",
+                            "materiel": "N/A",
+                            "typeAction": "Intervention"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "ARRACHAGE",
+                        "lieu": "Carquefou",
+                        "statut": "Terminé",
+                        "type": "Intervention"
+                    },
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2018,
+                            6,
+                            24
+                        ],
+                        "espece": "BIDENT FEUILLE",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2018,
+                                6,
+                                24
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Carquefou",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Carquefou",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    },
+                    "DEPLACEMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2019,
+                            1,
+                            14
+                        ],
+                        "espece": "BIDENT FEUILLE",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2019,
+                                1,
+                                14
+                            ],
+                            "descriptif": "Déplacement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "DEPLACEMENT",
+                            "lieu": "Carquefou",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "DEPLACEMENT",
+                        "lieu": "Carquefou",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    }
+                },
+                "categorieListe": "Alerte",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 51,
+                "nom": "BIDENT FEUILLE",
+                "phaseInvasion": "Installation",
+                "potentielDispersion": "Moyen",
+                "potentielInvasif": "N/A",
+                "priorite": "À surveiller",
+                "repartitionGeo": "Carquefou",
+                "taxonomie": "Bidens frondosa L.",
+                "voieIntroduction": "Naturelle"
+            },
+            "DIOSCOREE A LARGES FEUILLES": {
+                "actions": {
+                    "ARRACHAGE": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2024,
+                            1,
+                            4
+                        ],
+                        "espece": "DIOSCOREE A LARGES FEUILLES",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 80.0,
+                            "date": [
+                                2024,
+                                1,
+                                4
+                            ],
+                            "descriptif": "Arrachage des individus",
+                            "financement": "N/A",
+                            "idAuteur": "steven",
+                            "intituleAction": "ARRACHAGE",
+                            "lieu": "Nantes",
+                            "materiel": "N/A",
+                            "typeAction": "Intervention"
+                        },
+                        "idAuteur": "steven",
+                        "intitule": "ARRACHAGE",
+                        "lieu": "Nantes",
+                        "statut": "En cours",
+                        "type": "Intervention"
+                    },
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2023,
+                            11,
+                            4
+                        ],
+                        "espece": "DIOSCOREE A LARGES FEUILLES",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2023,
+                                11,
+                                4
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "steven",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Nantes",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "steven",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Nantes",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    }
+                },
+                "categorieListe": "Espèce invasives",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 116,
+                "nom": "DIOSCOREE A LARGES FEUILLES",
+                "phaseInvasion": "Latence",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Prioritaire",
+                "repartitionGeo": "Nantes",
+                "taxonomie": "Dioscorea polystachya Turcz.",
+                "voieIntroduction": "Naturelle"
+            },
+            "ERABLE NEGUNDO": {
+                "actions": {
+                    "SENSIBILISATION AUX POPULATIONS LOCALES": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2021,
+                            1,
+                            15
+                        ],
+                        "espece": "ERABLE NEGUNDO",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 50.0,
+                            "date": [
+                                2021,
+                                1,
+                                15
+                            ],
+                            "descriptif": "Sensibilisation des populations locales à l'espèce",
+                            "financement": "N/A",
+                            "idAuteur": "steven",
+                            "intituleAction": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                            "lieu": "Saint-Sébastien-sur-Loire",
+                            "materiel": "N/A",
+                            "typeAction": "Prévention"
+                        },
+                        "idAuteur": "steven",
+                        "intitule": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                        "lieu": "Saint-Sébastien-sur-Loire",
+                        "statut": "Terminé",
+                        "type": "Prévention"
+                    }
+                },
+                "categorieListe": "Observation",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Peu importants",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 12,
+                "nom": "ERABLE NEGUNDO",
+                "phaseInvasion": "Introduction",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Non-prioritaire",
+                "repartitionGeo": "Saint-Sébastien-sur-Loire",
+                "taxonomie": "Acer negundo L.",
+                "voieIntroduction": "Naturelle"
+            },
+            "FEVIER D'AMERIQUE": {
+                "actions": {
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2019,
+                            4,
+                            12
+                        ],
+                        "espece": "FEVIER D'AMERIQUE",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2019,
+                                4,
+                                12
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "steven",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Saint-Herblain",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "steven",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Saint-Herblain",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    },
+                    "SENSIBILISATION AUX POPULATIONS LOCALES": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2020,
+                            1,
+                            12
+                        ],
+                        "espece": "FEVIER D'AMERIQUE",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 50.0,
+                            "date": [
+                                2020,
+                                1,
+                                12
+                            ],
+                            "descriptif": "Sensibilisation des populations locales à l'espèce",
+                            "financement": "N/A",
+                            "idAuteur": "steven",
+                            "intituleAction": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                            "lieu": "Saint-Herblain",
+                            "materiel": "N/A",
+                            "typeAction": "Prévention"
+                        },
+                        "idAuteur": "steven",
+                        "intitule": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                        "lieu": "Saint-Herblain",
+                        "statut": "Terminé",
+                        "type": "Prévention"
+                    }
+                },
+                "categorieListe": "Intérêt moindre",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 2,
+                "nom": "FEVIER D'AMERIQUE",
+                "phaseInvasion": "Introduction",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Non-prioritaire",
+                "repartitionGeo": "Saint-Herblain",
+                "taxonomie": "Gleditsia triacanthos L.",
+                "voieIntroduction": "Humaine"
+            },
+            "MICOCOULIER DE PROVENCE": {
+                "actions": {
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2022,
+                            5,
+                            4
+                        ],
+                        "espece": "MICOCOULIER DE PROVENCE",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2022,
+                                5,
+                                4
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "steven",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Nantes",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "steven",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Nantes",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    },
+                    "SENSIBILISATION AUX POPULATIONS LOCALES": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2021,
+                            4,
+                            17
+                        ],
+                        "espece": "MICOCOULIER DE PROVENCE",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 50.0,
+                            "date": [
+                                2021,
+                                4,
+                                17
+                            ],
+                            "descriptif": "Sensibilisation des populations locales à l'espèce",
+                            "financement": "N/A",
+                            "idAuteur": "steven",
+                            "intituleAction": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                            "lieu": "Nantes",
+                            "materiel": "N/A",
+                            "typeAction": "Prévention"
+                        },
+                        "idAuteur": "steven",
+                        "intitule": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                        "lieu": "Nantes",
+                        "statut": "Terminé",
+                        "type": "Prévention"
+                    }
+                },
+                "categorieListe": "Intérêt moindre",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 2,
+                "nom": "MICOCOULIER DE PROVENCE",
+                "phaseInvasion": "Introduction",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Non-prioritaire",
+                "repartitionGeo": "Nantes",
+                "taxonomie": "Celtis australis L.",
+                "voieIntroduction": "Naturelle"
+            },
+            "OLIVIER DE BOHEME": {
+                "actions": {
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2017,
+                            8,
+                            12
+                        ],
+                        "espece": "OLIVIER DE BOHEME",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2017,
+                                8,
+                                12
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Vertou",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Vertou",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    },
+                    "SENSIBILISATION AUX POPULATIONS LOCALES": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2023,
+                            1,
+                            23
+                        ],
+                        "espece": "OLIVIER DE BOHEME",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 50.0,
+                            "date": [
+                                2023,
+                                1,
+                                23
+                            ],
+                            "descriptif": "Sensibilisation des populations locales à l'espèce",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                            "lieu": "Vertou",
+                            "materiel": "N/A",
+                            "typeAction": "Prévention"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "SENSIBILISATION AUX POPULATIONS LOCALES",
+                        "lieu": "Vertou",
+                        "statut": "Terminé",
+                        "type": "Prévention"
+                    }
+                },
+                "categorieListe": "Intérêt moindre",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 2,
+                "nom": "OLIVIER DE BOHEME",
+                "phaseInvasion": "Introduction",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Non-prioritaire",
+                "repartitionGeo": "Vertou",
+                "taxonomie": "Elaeagnus angustifolia L.",
+                "voieIntroduction": "Humaine"
+            },
+            "RENOUEE DU JAPON": {
+                "actions": {
+                    "ARRACHAGE": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2016,
+                            3,
+                            28
+                        ],
+                        "espece": "RENOUEE DU JAPON",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 80.0,
+                            "date": [
+                                2016,
+                                3,
+                                28
+                            ],
+                            "descriptif": "Arrachage des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "ARRACHAGE",
+                            "lieu": "Rezé",
+                            "materiel": "N/A",
+                            "typeAction": "Intervention"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "ARRACHAGE",
+                        "lieu": "Rezé",
+                        "statut": "Terminé",
+                        "type": "Intervention"
+                    },
+                    "DENOMBREMENT": {
+                        "commentaires": "Aucun",
+                        "date": [
+                            2015,
+                            2,
+                            28
+                        ],
+                        "espece": "RENOUEE DU JAPON",
+                        "ficheSuivi": {
+                            "acteurs": "N/A",
+                            "coutAction": 60.0,
+                            "date": [
+                                2015,
+                                2,
+                                28
+                            ],
+                            "descriptif": "Dénombrement des individus",
+                            "financement": "N/A",
+                            "idAuteur": "felix",
+                            "intituleAction": "DENOMBREMENT",
+                            "lieu": "Rezé",
+                            "materiel": "N/A",
+                            "typeAction": "Surveillance"
+                        },
+                        "idAuteur": "felix",
+                        "intitule": "DENOMBREMENT",
+                        "lieu": "Rezé",
+                        "statut": "Terminé",
+                        "type": "Surveillance"
+                    }
+                },
+                "categorieListe": "Espèce invasives",
+                "commentaires": "Aucun",
+                "cycleBiologique": "N/A",
+                "impacts": "Aucun",
+                "modeReproduction": "Sexuée",
+                "nbIndividusRecenses": 86,
+                "nom": "RENOUEE DU JAPON",
+                "phaseInvasion": "Latence",
+                "potentielDispersion": "Faible",
+                "potentielInvasif": "N/A",
+                "priorite": "Prioritaire",
+                "repartitionGeo": "Rezé",
+                "taxonomie": "Fallopia japonica (Houtt.) Ronse Decr.",
+                "voieIntroduction": "Humaine"
+            }
+        },
+        "nom": "Loire_Bretagne",
+        "utilisateurConnecteId": "NULL",
+        "utilisateurs": {
+            "basma": {
+                "email": "basma.baqqali@etu.univ-nantes.fr",
+                "id": "basma",
+                "mdp": "mdp",
+                "type": "consultant"
+            },
+            "demoC": {
+                "email": "demoC@univ-nantes.fr",
+                "id": "demoC",
+                "mdp": "mdp",
+                "type": "consultant"
+            },
+            "demoR": {
+                "email": "demoR@univ-nantes.fr",
+                "id": "demoR",
+                "mdp": "mdp",
+                "type": "reporter"
+            },
+            "felix": {
+                "email": "felix.letertre@etu.univ-nantes.fr",
+                "id": "felix",
+                "mdp": "mdp",
+                "type": "reporter"
+            },
+            "steven": {
+                "email": "steven.pichon@etu.univ-nantes.fr",
+                "id": "steven",
+                "mdp": "mdp",
+                "type": "reporter"
+            }
+        }
+    }
+}

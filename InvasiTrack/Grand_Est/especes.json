@@ -1,0 +1,158 @@
+{
+    "CRASSULE DE HELMS": {
+        "actions": {
+            "ARRACHAGE": {
+                "commentaires": "Aucun",
+                "date": [
+                    2020,
+                    6,
+                    25
+                ],
+                "espece": "CRASSULE DE HELMS",
+                "ficheSuivi": {
+                    "acteurs": "N/A",
+                    "coutAction": 80.0,
+                    "date": [
+                        2020,
+                        6,
+                        25
+                    ],
+                    "descriptif": "Arrachage des individus",
+                    "financement": "N/A",
+                    "idAuteur": "felix",
+                    "intituleAction": "ARRACHAGE",
+                    "lieu": "Nancy",
+                    "materiel": "N/A",
+                    "typeAction": "Intervention"
+                },
+                "idAuteur": "felix",
+                "intitule": "ARRACHAGE",
+                "lieu": "Nancy",
+                "statut": "Terminé",
+                "type": "Intervention"
+            },
+            "DENOMBREMENT": {
+                "commentaires": "Aucun",
+                "date": [
+                    2019,
+                    9,
+                    15
+                ],
+                "espece": "CRASSULE DE HELMS",
+                "ficheSuivi": {
+                    "acteurs": "N/A",
+                    "coutAction": 60.0,
+                    "date": [
+                        2019,
+                        9,
+                        15
+                    ],
+                    "descriptif": "Dénombrement des individus",
+                    "financement": "N/A",
+                    "idAuteur": "felix",
+                    "intituleAction": "DENOMBREMENT",
+                    "lieu": "Nancy",
+                    "materiel": "N/A",
+                    "typeAction": "Surveillance"
+                },
+                "idAuteur": "felix",
+                "intitule": "DENOMBREMENT",
+                "lieu": "Nancy",
+                "statut": "Terminé",
+                "type": "Surveillance"
+            }
+        },
+        "categorieListe": "Espèce invasive",
+        "commentaires": "Aucun",
+        "cycleBiologique": "N/A",
+        "impacts": "Aucun",
+        "modeReproduction": "Sexuée",
+        "nbIndividusRecenses": 2,
+        "nom": "CRASSULE DE HELMS",
+        "phaseInvasion": "Introduction",
+        "potentielDispersion": "Faible",
+        "potentielInvasif": "N/A",
+        "priorite": "Prioritaire",
+        "repartitionGeo": "Nancy",
+        "taxonomie": "Crassula helmsii (Kirk) Cockayne",
+        "voieIntroduction": "Humaine"
+    },
+    "ELODEE DU CANADA": {
+        "actions": {
+            "ARRACHAGE": {
+                "commentaires": "Aucun",
+                "date": [
+                    2022,
+                    4,
+                    29
+                ],
+                "espece": "ELODEE DU CANADA",
+                "ficheSuivi": {
+                    "acteurs": "N/A",
+                    "coutAction": 80.0,
+                    "date": [
+                        2022,
+                        4,
+                        29
+                    ],
+                    "descriptif": "Arrachage des individus",
+                    "financement": "N/A",
+                    "idAuteur": "felix",
+                    "intituleAction": "ARRACHAGE",
+                    "lieu": "Nancy",
+                    "materiel": "N/A",
+                    "typeAction": "Intervention"
+                },
+                "idAuteur": "felix",
+                "intitule": "ARRACHAGE",
+                "lieu": "Nancy",
+                "statut": "Terminé",
+                "type": "Intervention"
+            },
+            "DENOMBREMENT": {
+                "commentaires": "Aucun",
+                "date": [
+                    2020,
+                    8,
+                    6
+                ],
+                "espece": "ELODEE DU CANADA",
+                "ficheSuivi": {
+                    "acteurs": "N/A",
+                    "coutAction": 60.0,
+                    "date": [
+                        2020,
+                        8,
+                        6
+                    ],
+                    "descriptif": "Dénombrement des individus",
+                    "financement": "N/A",
+                    "idAuteur": "felix",
+                    "intituleAction": "DENOMBREMENT",
+                    "lieu": "Nancy",
+                    "materiel": "N/A",
+                    "typeAction": "Surveillance"
+                },
+                "idAuteur": "felix",
+                "intitule": "DENOMBREMENT",
+                "lieu": "Nancy",
+                "statut": "Terminé",
+                "type": "Surveillance"
+            }
+        },
+        "categorieListe": "Espèce invasive",
+        "commentaires": "Aucun",
+        "cycleBiologique": "N/A",
+        "impacts": "Aucun",
+        "modeReproduction": "Sexuée",
+        "nbIndividusRecenses": 2,
+        "nom": "ELODEE DU CANADA",
+        "phaseInvasion": "Introduction",
+        "potentielDispersion": "Faible",
+        "potentielInvasif": "N/A",
+        "priorite": "Prioritaire",
+        "repartitionGeo": "Nancy",
+        "taxonomie": "Elodea canadensis Michx.",
+        "voieIntroduction": "Humaine"
+    }
+}
